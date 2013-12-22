@@ -1,0 +1,1 @@
+obsługa lini rx i tx w atmedze. program do wysyłania co pol sekundy wysyła 1 lub 2 a porgram do odbierania do 0,75s miga jedną diodą oraz na przerwaniu na rx zależnie od danych miga dwoma pozostałymi diodami.
